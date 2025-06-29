@@ -96,13 +96,15 @@ The data underscores class-based disparities during the disaster, where wealthie
 
 ### 📊 Visualizations
 
-![](dash7.png)
+![](Dash7.png)
+
 Dashboard features:
 •	Bar Charts: Age category survival, class survival, port survival
 •	Pie/Donut Charts: Gender and age-based survival shares
 •	Tabular View: Class-gender survival matrix with totals and rates
 •	KPI Cards: Quick facts on total passengers, survivors, survival rate
 The visuals are interactive and slicer-controlled by gender, class, port, and age category.
+
 📌 Observations
 1.	Gender had the most decisive effect on survival, especially in First Class.
 2.	Passenger class, correlated with safety access, those in Third Class were most vulnerable.
