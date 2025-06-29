@@ -95,6 +95,8 @@ Passengers who paid higher fares—mainly First Class—were more likely to surv
 The data underscores class-based disparities during the disaster, where wealthier passengers had an unintentional advantage. This reinforces the modern necessity for equal safety measures and evacuation access for all passengers, regardless of fare class.
 
 ### 📊 Visualizations
+
+![](dash7.png)
 Dashboard features:
 •	Bar Charts: Age category survival, class survival, port survival
 •	Pie/Donut Charts: Gender and age-based survival shares
