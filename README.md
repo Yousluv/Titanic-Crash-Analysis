@@ -55,39 +55,39 @@ o	Survival Status (Survived/Not Survived)
 •	Impact: Highlights the need for policy reform and rescue planning in maritime travel.
 
 ### 2. Survival by Gender
-•	Females: 72.75%
-•	Males: 19.10%
-•	Implication: Clear gender bias in survival, due to the “women and children first” protocol.
-•	Impact: While saving lives, this also points to the importance of ensuring balanced emergency protocols that prioritize vulnerability over societal norms.
+- Females: 72.75%
+-	Males: 19.10%
+-Implication: Clear gender bias in survival, due to the “women and children first” protocol.
+-	Impact: While saving lives, this also points to the importance of ensuring balanced emergency protocols that prioritize vulnerability over societal norms.
 
 ### 3. Survival by Age Group
-•	Children: 49.22% (highest)
-•	Elderly: 32.20% (lowest)
-•	Implication: Children had preferential rescue access; elderly had lowest odds, indicating physical vulnerability and reduced mobility in emergencies.
-•	Impact: Validates the need for support mechanisms for the elderly in evacuation drills.
+-	Children: 49.22% (highest)
+-	Elderly: 32.20% (lowest)
+-	Implication: Children had preferential rescue access; elderly had lowest odds, indicating physical vulnerability and reduced mobility in emergencies.
+-	Impact: Validates the need for support mechanisms for the elderly in evacuation drills.
 
 ### 4. Survival by Passenger Class
-•	First Class: 61.92%
-•	Second Class: 42.96%
-•	Third Class: 25.53%
-•	Implication: Classism significantly affected survival, with lower class passengers having limited access to lifeboats and exits.
-•	Impact: Reinforces modern regulations that prohibit class-based evacuation prioritization.
+-	First Class: 61.92%
+-	Second Class: 42.96%
+-	Third Class: 25.53%
+-	Implication: Classism significantly affected survival, with lower class passengers having limited access to lifeboats and exits.
+-	Impact: Reinforces modern regulations that prohibit class-based evacuation prioritization.
 
 ### 5. Port of Embarkation Influence
-•	Cherbourg: 55.56% (highest survival)
-•	Southampton: 33.41% (lowest survival)
-•	Implication: Demographics by port affected outcomes; Cherbourg had more First-Class passengers.
-•	Impact: Evacuation preparedness must consider onboard demographics, not just locations.
+-	Cherbourg: 55.56% (highest survival)
+-	Southampton: 33.41% (lowest survival)
+-	Implication: Demographics by port affected outcomes; Cherbourg had more First-Class passengers.
+-	Impact: Evacuation preparedness must consider onboard demographics, not just locations.
 The fare distribution among passenger classes reveals a strong link between economic status and survival outcomes:
-•	First Class:
-o	Total Fare: $28.3K
-o	Survival Rate: 61.92%
-•	Second Class:
-o	Total Fare: $9.4K
-o	Survival Rate: 42.96%
-•	Third Class:
-o	Total Fare: $5.9K
-o	Survival Rate: 25.53%
+-	First Class:
+-	Total Fare: $28.3K
+-	Survival Rate: 61.92%
+-	Second Class:
+-	Total Fare: $9.4K
+-	Survival Rate: 42.96%
+-	Third Class:
+-	Total Fare: $5.9K
+-	Survival Rate: 25.53%
 
 ### 🔍 Key Insight:
 Passengers who paid higher fares—mainly First Class—were more likely to survive. This suggests that economic status influenced survival, possibly due to better cabin placement and quicker access to lifeboats.
